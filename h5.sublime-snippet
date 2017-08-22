@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>商城</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
+ </head>
+ <body>
+ </body>
+</html>
+]]></content>
+	<tabTrigger>h5</tabTrigger>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
